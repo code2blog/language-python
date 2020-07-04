@@ -1,0 +1,3 @@
+C:\Users\Vishnu\AppData\Local\IBM\IIBT10-config\10.0.0.20\configuration\org.eclipse.core.runtime\.manager\
+C:\Users\Vishnu\AppData\Local\IBM\IIBT10-config\10.0.0.20\configuration\org.eclipse.equinox.app\.manager
+C:\Users\Vishnu\AppData\Local\IBM\IIBT10-config\10.0.0.20\configuration\org.eclipse.osgi\.manager\
